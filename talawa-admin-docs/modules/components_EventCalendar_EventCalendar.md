@@ -4,10 +4,6 @@
 
 ## Table of contents
 
-### Enumerations
-
-- [ViewType](../enums/components_EventCalendar_EventCalendar.ViewType.md)
-
 ### Functions
 
 - [default](components_EventCalendar_EventCalendar.md#default)
@@ -31,4 +27,4 @@
 
 #### Defined in
 
-[src/components/EventCalendar/EventCalendar.tsx:59](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/EventCalendar/EventCalendar.tsx#L59)
+[src/components/EventCalendar/EventCalendar.tsx:56](https://github.com/Anubhav-2003/talawa-admin/blob/971e20a/src/components/EventCalendar/EventCalendar.tsx#L56)
